@@ -1239,7 +1239,7 @@ section {
   padding-bottom: 8px;
 }
 
-.contact .php-email-form .sent-message {
+.contact .php-email-form .error-message {
   display: none;
   color: #fff;
   background: #18d26e;
